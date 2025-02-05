@@ -16,24 +16,24 @@ This **Point of Sale (POS) System** is a web-based application designed to optim
 ### 🎨 Frontend
 
 - **HTML**: Defines the structure of the application.
-- **CSS**: Provides styling for a visually appealing interface.\
+- **CSS**: Provides styling for a visually appealing interface.
 
-- **Bootstrap**: Ensures a responsive and modern design.\
+- **Bootstrap**: Ensures a responsive and modern design.
 
-- **JavaScript**: Enhances interactivity and dynamic functionality.\
+- **JavaScript**: Enhances interactivity and dynamic functionality.
 
 - **XHR (XMLHttpRequest)**: Manages asynchronous communication with the server.
 
 ### 🔧 Backend
 
-- **PHP**: Handles server-side logic and database interactions.\
+- **PHP**: Handles server-side logic and database interactions.
 
-- **MySQL**: Stores product, customer, and transaction data efficiently.\
+- **MySQL**: Stores product, customer, and transaction data efficiently.
 
 
 ### 📚 Additional Libraries/Tools
 
-- **jspdf**: A library for generating PDF invoices.\
+- **jspdf**: A library for generating PDF invoices.
 
 
 ## ⚙️ Installation Guide
